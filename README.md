@@ -1,2 +1,2 @@
 # End-to-End-ML-Project
-making my first repository with MLflow
+Making my first repository using MLflow
