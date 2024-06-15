@@ -1,2 +1,3 @@
-# End-to-End-ML-Project
-Making my first repository using MLflow
+# ML-Project
+## Heart Disease Prediction
+## Holiday Package Prediction
