@@ -1,3 +1,3 @@
 # Machine Learning Project
-### Heart Disease Prediction
-### Holiday Package Prediction
+### 1. Heart Disease Prediction
+### 2. Holiday Package Prediction
