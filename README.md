@@ -1,3 +1,3 @@
 # ML-Project
-## Heart Disease Prediction
-## Holiday Package Prediction
+Heart Disease Prediction
+Holiday Package Prediction
